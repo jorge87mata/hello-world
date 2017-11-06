@@ -1,0 +1,13 @@
+
+
+    buton{
+
+        windows.sessionStorage.setItem("nombre","pepito");
+        }
+
+     buton2{
+
+        windows.sessionStorage.setItem("nombre");
+        alert(getItem(nombre);
+        }
+
